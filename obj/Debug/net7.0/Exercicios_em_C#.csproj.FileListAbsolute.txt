@@ -1,0 +1,14 @@
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\Exercicios_em_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\Exercicios_em_C#.AssemblyInfoInputs.cache
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\Exercicios_em_C#.AssemblyInfo.cs
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\Exercicios_em_C#.csproj.CoreCompileInputs.cache
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\bin\Debug\net7.0\Exercicios_em_C#.exe
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\bin\Debug\net7.0\Exercicios_em_C#.deps.json
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\bin\Debug\net7.0\Exercicios_em_C#.runtimeconfig.json
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\bin\Debug\net7.0\Exercicios_em_C#.dll
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\bin\Debug\net7.0\Exercicios_em_C#.pdb
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\Exercicios_em_C#.dll
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\refint\Exercicios_em_C#.dll
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\Exercicios_em_C#.pdb
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\Exercicios_em_C#.genruntimeconfig.cache
+C:\Users\melissacardoso\Documents\Dev\Exercicios_em_C#\obj\Debug\net7.0\ref\Exercicios_em_C#.dll
